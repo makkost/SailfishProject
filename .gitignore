@@ -1,0 +1,8 @@
+.DS_Store
+SailfishProject.pro.user
+app/app.pro.user
+rpm/SailfishProject.spec
+SailfishProject-MerSDK_SailfishOS_armv7hl-Release/*
+SailfishProject-MerSDK_SailfishOS_armv7hl-Debug/*
+SailfishProject-MerSDK_SailfishOS_i486-Release/*
+SailfishProject-MerSDK_SailfishOS_i486-Debug/*
