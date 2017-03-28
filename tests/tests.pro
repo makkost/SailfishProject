@@ -12,7 +12,3 @@ HEADERS += \
 
 INCLUDEPATH += ../app/
 include(../app/app.pri)
-
-test.files = *.h *.cpp
-test.path = /usr/share/SailfishProject/tests
-INSTALLS += test
